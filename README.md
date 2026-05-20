@@ -68,10 +68,10 @@ MexicoToySales
 │   └── Sales_Inventory_Operations_Dashboard_Final.pbix
 │
 ├── 04_images
-│   ├── 01_executive_overview.png
-│   ├── 02_product_analysis.png
-│   ├── 03_store_performance.png
-│   └── 04_inventory_risk.png
+│   ├── 1.%20Executive%20overview.png
+│   ├── 2.%20Product%20analysis.png
+│   ├── 3.%20Store%20performance.png
+│   └── 4.%20Inventory%20risk.png
 │
 ├── 05_report
 │   └── business_summary.md
